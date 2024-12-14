@@ -1,0 +1,5 @@
+/var/
+/vendor/
+/phpunit.xml
+.phpunit.result.cache
+.idea
